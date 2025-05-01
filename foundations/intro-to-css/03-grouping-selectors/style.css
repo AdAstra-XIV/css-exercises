@@ -1,0 +1,16 @@
+
+
+.btn_shared {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  border-radius: 5px;
+}
+
+#btn_01 {
+    background-color: black;
+    color: white; 
+}
+
+#btn_02 {
+    background-color: yellow;
+}
